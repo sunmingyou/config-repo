@@ -51,4 +51,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 smy:
- hello: hello sun2	
+ hello: hello sun32	
