@@ -48,6 +48,7 @@ mybatis:
   type-aliases-package: com.icolor.paas.designer.model # 注意：对应实体类的路径
 eureka:
   client:
+    fetchRegistry: true
     service-url:
       defaultZone: http://localhost:8761/eureka
 smy:
