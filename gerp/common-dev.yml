@@ -18,3 +18,7 @@ zuul:
     api-product:
       path: /api-product/**
       serviceId: product
+
+infra:
+    name: jack
+    age: 18
